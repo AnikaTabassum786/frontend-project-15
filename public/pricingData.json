@@ -3,7 +3,7 @@
       "name": "Basic Plan",
       "price": "$29.99/month",
       "id": 1,
-      "description": "Ideal for individuals who want to stay fit with essential gym access.",
+      "description": "Ideal for individuals who want to stay fit.",
       "features": [
         "Access to gym facilities during regular hours",
         "Unlimited use of cardio equipment",
@@ -17,7 +17,7 @@
       "price": "$49.99/month",
       "popular": true,
       "id": 2,
-      "description": "Perfect for individuals who want additional perks and flexibility.",
+      "description": "Perfect for individuals who want additional perks .",
       "features": [
         "24/7 gym access",
         "Unlimited use of all gym equipment",
@@ -37,12 +37,11 @@
         "2 adults and up to 2 children included",
         "24/7 gym access",
         "Unlimited use of gym equipment",
-        "Free personal training sessions for each adult",
+        "Free personal training sessions ",
         "Access to family fitness classes",
         "Free childcare during gym visits",
-        "Discounts on family wellness programs",
-        "Free access to family wellness events",
-        "Exclusive family fitness challenges"
+        "Discounts on family wellness programs"
+       
       ]
     }
   ]

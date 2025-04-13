@@ -40,7 +40,7 @@ const Navbar = () => {
             <a href={route.path}>{route.name}</a>
         </li>)
     return (
-        <div className='flex justify-between mx-10 mt-10'>
+        <div className='flex justify-between mx-10 mt-4'>
             <div className='flex'>
                 <span onClick={handleMenu}>
                     {open? 
